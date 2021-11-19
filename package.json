@@ -1,0 +1,14 @@
+{
+  "name": "campaign-management-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "debug": "^4.3.2",
+    "express": "~4.16.1"
+  }
+}
